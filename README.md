@@ -14,14 +14,14 @@ This repository contains an automated installation script for setting up a compl
 ### One-Line Installation
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/stremio-server-setup/main/stremio-setup.sh && sudo bash stremio-setup.sh
+wget https://raw.githubusercontent.com/arrzdev/stremio-server-setup/main/stremio-setup.sh && sudo bash stremio-setup.sh
 ```
 
 Or download and run manually:
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/yourusername/stremio-server-setup/main/stremio-setup.sh
+wget https://raw.githubusercontent.com/arrzdev/stremio-server-setup/main/stremio-setup.sh
 
 # Make it executable
 chmod +x stremio-setup.sh
